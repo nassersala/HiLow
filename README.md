@@ -1,2 +1,2 @@
 # HiLow
-Hi and Low-level smart contract language supporting many blockchains
+High and Low-level smart contract language supporting many blockchains
